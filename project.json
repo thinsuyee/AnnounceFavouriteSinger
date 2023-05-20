@@ -1,7 +1,7 @@
 {
   "name": "AnnounceFavouriteSinger",
   "description": "A test process that tells me who my favourite singer is",
-  "main": "Main.xaml",
+  "main": "Test.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.4]",
@@ -54,6 +54,12 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "9631714e-46d4-4899-bdc0-8bd16222c2e4",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Test.xaml",
+      "uniqueId": "713004a2-1451-44cc-8545-f0358dc1fcab",
       "input": [],
       "output": []
     }
